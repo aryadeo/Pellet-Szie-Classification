@@ -17,3 +17,6 @@ This repository contains all source codes and dataset used in support of our sub
 |Matlab| R2019b|
 |Mathworks Deep Learning Toolbox|13.0|
 |Mathworks Image Processing Toolbox|11.0|
+
+
+PLease refer individual folders to know details about the files.
