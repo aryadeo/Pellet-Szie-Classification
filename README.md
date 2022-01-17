@@ -1,6 +1,8 @@
 <div align="center">
   
 # Online Monitoring of Iron Ore Pellet Size Distribution using Lightweight Convolutional Neural Network
+ 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
   
 </div align="left">  
 
