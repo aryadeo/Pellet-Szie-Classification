@@ -30,4 +30,4 @@ Ph.D. Scholar, Process Engineering and Instrumentation,
 
 CSIR-Institute of Minerals and Materials Technology, Bhubaneswar, 
 
-Odisha, India, Pin-751002
+Odisha, India, Pin-751013
