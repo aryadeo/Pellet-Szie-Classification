@@ -19,7 +19,7 @@ This repository contains all source codes and dataset used in support of our sub
 |Mathworks Image Processing Toolbox|11.0|
 
 
-PLease refer individual folders to know details about the files.
+Please refer individual folders to know details about the files.
 
 # Contact
 Mr. Arya Jyoti Deo
