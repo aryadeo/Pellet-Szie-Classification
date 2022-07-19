@@ -2,7 +2,7 @@
   
 # Online Monitoring of Iron Ore Pellet Size Distribution using Lightweight Convolutional Neural Network
  
-![Our Implementation](https://github.com/aryadeo/Pellet_Size_Distribution/blob/main/gif_for_demo.gif)
+![Our Implementation](Images/gif_for_demo.gif)
   
 </div align="left">  
 
