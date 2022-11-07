@@ -24,7 +24,7 @@ Please refer individual folders to know details about the files.
 # Contact
 Mr. Arya Jyoti Deo
 
-email: aryajyoti.d@immt.res.in
+email: aryadeo15@gmail.com
 
 Ph.D. Scholar, Process Engineering and Instrumentation,
 
