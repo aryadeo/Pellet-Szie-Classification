@@ -3,6 +3,8 @@ The **Training.rar** and **Testing.rar** contains two subfolders in each of them
   
 - PixelLabelData: this folder conains the pixel labelled image of the original acquired images.
 
-#Note:
-The manually labeled images in the "PixelLabelData" folder contains images of manually labeled images of iron ore pelelts falling at discharge end of the disc pelletizer
-where Pellets are labeled as "1" and background is labeled as "0". The reader may map the pixels of the labeled images in 0-255, to make it clearly visible.
+**Note:**
+__PixelLabelData__ folder contains images of manually labeled images of iron ore pellets falling at discharge end of the disc pelletizer,
+where __Pellets__ are labeled as __"1"__ and the __Background__ is labeled as __"0"__. 
+
+__*The reader may map the pixels of the labeled images in (0-255) range, to make it clearly visible.*__
